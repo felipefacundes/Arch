@@ -6,7 +6,7 @@
 ##### Canal Telegram: [https://t.me/s/PlayOnGit](https://t.me/s/PlayOnGit)
 ##### Site: [https://linuxgamers.github.io/](https://linuxgamers.github.io/)
 
-<br></br>
+<br>
 
 ---
 ## Etapa 01 - Conectar-se a Internet.
@@ -597,7 +597,7 @@ pacman -S lib32-libcanberra-gstreamer lib32-gstreamer lib32-gst-plugins-good lib
 <br>
 
 ---
-## Etapa 08 - Apps, Drivers e Configs adicionais:
+## Etapa 09 - Apps, Drivers e Configs adicionais:
 ---
 <br>
 
