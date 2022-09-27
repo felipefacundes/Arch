@@ -5,7 +5,7 @@
 ##### Telegram Channel: [https://t.me/s/PlayOnGit](https://t.me/s/PlayOnGit)
 ##### Site: [https://linuxgamers.github.io/](https://linuxgamers.github.io/)
 
-<br></br>
+<br>
 
 ---
 ## Step 01 - Connect to the Internet. 
