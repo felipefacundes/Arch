@@ -456,6 +456,11 @@ https://amdgpu.github.io/
 
 <br>
 
+### Start SERVICE
+`systemctl enable getty@.service`
+
+<br>
+
 ---
 ## Step 07 - Adjustments for: PERFORMANCE / GAMES / SECURITY 
 ---
