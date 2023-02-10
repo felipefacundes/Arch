@@ -484,6 +484,11 @@ https://amdgpu.github.io/
 
 <br>
 
+### Agora inicie o serviço para que o autologin seja iniciado.
+`systemctl enable getty@.service`
+
+<br>
+
 ---
 ## Etapa 07 - Ajustes para: PERFORMANCE / JOGOS / SEGURANÇA
 ---
