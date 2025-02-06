@@ -503,7 +503,7 @@ pacman -S lib32-libcanberra-gstreamer lib32-gstreamer lib32-gst-plugins-good lib
 <br>
 
 ### In `/etc/security/limits.conf` Note: Below command will increase performance and FPS in games. 
-##### Read. In the line below contains `11` command lines, obey each command: 
+##### Read. In the line below contains `14` command lines, obey each command: 
 1. - `echo -e "hard stack unlimited" >> /etc/security/limits.conf`
 2. - `echo -e "nproc unlimited" >> /etc/security/limits.conf`
 3. - `echo -e "nofile 1048576" >> /etc/security/limits.conf`
@@ -514,7 +514,10 @@ pacman -S lib32-libcanberra-gstreamer lib32-gstreamer lib32-gst-plugins-good lib
 8. - `echo -e "memlock unlimited" >> /etc/security/limits.conf`
 9. - `echo -e "msgqueue unlimited" >> /etc/security/limits.conf`
 10. - `echo -e "locks unlimited" >> /etc/security/limits.conf`
-11. - `echo -e "* hard nofile 1048576" >> /etc/security/limits.conf`
+11. - `echo -e "* soft nofile 1048576" >> /etc/security/limits.conf`
+12. - `echo -e "* hard nofile 1048576" >> /etc/security/limits.conf`
+13. - `echo -e "@realtime - rtprio 98" >> /etc/security/limits.conf`
+14. - `echo -e "@realtime - memlock unlimited" >> /etc/security/limits.conf`
 
 <br>
 
